@@ -30,6 +30,7 @@ def main():
    area_rectangulo1 = area_figuras.rectangulo(lado1=3, lado2=4.)
    area_triangulo1 = area_figuras.triangulo(base=0.58, altura=1.12)
    perimetro_circulo1 = perimetro_figuras.pcirculo(radio=3)
+   perimetro_circulo2 = perimetro_figuras.pcirculo(radio=5)
 
    # print('Area del circulo de radio 5 es: {}'.format(area_circulo1))
    # print('Area del rectangulo de lados 3 y 4 es: {}'.format(area_rectangulo1))
